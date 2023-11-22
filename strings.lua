@@ -1,0 +1,138 @@
+function data()
+return {
+	en = {
+
+		["mod_name"] = "Sggmrss 90 container wagon",
+		["mod_desc"] = "The Sggmrss 90 is a container wagon with a loading area of 2x 45ft. The first cars were built in 2004 and have been further developed several times. The cars are approved for a maximum speed of 100 km/h or 120 km/h.",
+
+		["option_fake_wagen_desc"] = "Should the fake versions of the Sggmrss 90 be available in the game?",
+		["Fake_sggmrss90_wagen"] = "Activate fake versions?",
+
+        ["sggmrss90_menu"] = "Sggmrss 90 container wagon",
+		["sggmrss90_aae_name"] = "Sggmrs 90 AAE (2004)",
+		["sggmrss90_aae2_name"] = "Sggmrss 90 AAE/DB (2005)",
+		["sggmrss90_ambrogio_name"] = "Sggmrss 90 Ambrogio (2014)",
+		["sggmrss90_clip_name"] = "Sggmrss 90 CLIP (2019)",
+		["sggmrss90_ermewa_name"] = "Sggmrss 90 Ermewa (2013)",
+		["sggmrss90_ermewa2_name"] = "Sggmrss 90 Ermewa (2017)",
+		["sggmrss90_err_name"] = "Sggmrss 90 ERR (2015)",
+		["sggmrss90_eurowagon_name"] = "Sggmrss 90 Eurowagon (2018)",
+		["sggmrss90_gatx_name"] = "Sggmrss 90 GATX (2018)",
+		["sggmrss90_gts_name"] = "Sggmrss 90 GTS (2006)",
+		["sggmrss90_hupac_name"] = "Sggmrss 90 Hupac (2004)",
+		["sggmrss90_hupac2_name"] = "Sggmrss 90 Hupac (2023)",
+		["sggmrss90_mfd_name"] = "Sggmrss 90 MFD Rail (2020)",
+		["sggmrss90_vtg_name"] = "Sggmrss 90 VTG (2014)",
+		["sggmrss90_wascosa_name"] = "Sggmrss 90 Wascosa (2008)",
+        ["sggmrss90_desc"] = "The Sggmrss 90 is a container wagon with a loading area of 2x 45ft. The first cars were built in 2004 and have been further developed several times. The cars are approved for a maximum speed of 100 km/h or 120 km/h.",
+
+		--- Fake ---
+        ["sggmrss90_menu_fake"] = "sggmrss90 container wagon Fake",
+		["sggmrss90_aae_name_fake"] = "Sggmrs 90 AAE (2004) Fake",
+		["sggmrss90_aae2_name_fake"] = "Sggmrss 90 AAE/DB (2005) Fake",
+		["sggmrss90_ambrogio_name_fake"] = "Sggmrss 90 Ambrogio (2014) Fake",
+		["sggmrss90_clip_name_fake"] = "Sggmrss 90 CLIP (2019) Fake",
+		["sggmrss90_ermewa_name_fake"] = "Sggmrss 90 Ermewa (2013) Fake",
+		["sggmrss90_ermewa2_name_fake"] = "Sggmrss 90 Ermewa (2017) Fake",
+		["sggmrss90_err_name_fake"] = "Sggmrss 90 ERR (2015) Fake",
+		["sggmrss90_eurowagon_name_fake"] = "Sggmrss 90 Eurowagon (2018) Fake",
+		["sggmrss90_gatx_name_fake"] = "Sggmrss 90 GATX (2018) Fake",
+		["sggmrss90_gts_name_fake"] = "Sggmrss 90 GTS (2006) Fake",
+		["sggmrss90_hupac_name_fake"] = "Sggmrss 90 Hupac (2004) Fake",
+		["sggmrss90_hupac2_name_fake"] = "Sggmrss 90 Hupac (2023) Fake",
+		["sggmrss90_mfd_name_fake"] = "Sggmrss 90 MFD Rail (2020) Fake",
+		["sggmrss90_vtg_name_fake"] = "Sggmrss 90 VTG (2014) Fake",
+		["sggmrss90_wascosa_name_fake"] = "Sggmrss 90 Wascosa (2008) Fake",
+
+		--- Ganzzug ---
+        ["containerwagen_ganzzug_menu"] = "Container wagons for block trains",
+		["sggmrss90_ermewa2_name_ferrymasters"] = "Sggmrs 90 Ermewa Ferrymasters (2017)",
+		["sggmrss90_err_name_ferrymasters"] = "Sggmrs 90 ERR Ferrymasters (2015)",
+		["sggmrss90_eurowagon_name_ferrymasters"] = "Sggmrs 90 Eurowagon Ferrymasters (2018)",
+		["sggmrss90_hupac_name_ferrymasters"] = "Sggmrs 90 Hupac Ferrymasters (2004)",
+		["sggmrss90_hupac2_name_ferrymasters"] = "Sggmrs 90 Hupac Ferrymasters (2023)",
+		["sggmrss90_vtg_name_ferrymasters"] = "Sggmrs 90 VTG Ferrymasters (2014)",
+		["sggmrss90_gts_name_gts"] = "Sggmrss 90 GTS (2006)",
+		["sggmrss90_ambrogio_name_ambrogio"] = "Sggmrss 90 Ambrogio (2014)",
+
+		--- Ganzzug Fake ---
+        ["containerwagen_ganzzug_menu_fake"] = "Containertragwagen Ganzzüge Fake",
+		["sggmrss90_ermewa2_name_ferrymasters_fake"] = "Sggmrs 90 Ermewa Ferrymasters (2017) Fake",
+		["sggmrss90_err_name_ferrymasters_fake"] = "Sggmrs 90 ERR Ferrymasters (2015) Fake",
+		["sggmrss90_eurowagon_name_ferrymasters_fake"] = "Sggmrs 90 Eurowagon Ferrymasters (2018) Fake",
+		["sggmrss90_hupac_name_ferrymasters_fake"] = "Sggmrs 90 Hupac Ferrymasters (2004) Fake",
+		["sggmrss90_hupac2_name_ferrymasters_fake"] = "Sggmrs 90 Hupac Ferrymasters (2023) Fake",
+		["sggmrss90_vtg_name_ferrymasters_fake"] = "Sggmrs 90 VTG Ferrymasters (2014) Fake",
+		["sggmrss90_gts_name_gts_fake"] = "Sggmrss 90 GTS (2006) Fake",
+		["sggmrss90_ambrogio_name_ambrogio_fake"] = "Sggmrss 90 Ambrogio (2014) Fake",
+
+	},
+	de = {
+
+		["mod_name"] = "Sggmrss 90 Containerwagen",
+		["mod_desc"] = "Der Sggmrss 90 ist ein Containertragwagen mit einer Ladeläger von 2x 45ft. Die ersten wagen wurden 2004 gebaut und mehrmals weiter entwickelt. Die Wagen sind für eine Höchstgeschwindigkeit von 100 km/h oder 120 km/h zugelassen.",
+
+		["option_fake_wagen_desc"] = "Sollen die Fake-Versionen des Sggmrss 90 verfügbar sein im Spiel?",
+		["Fake_sggmrss90_wagen"] = "Fake-Versionen aktivieren?",
+
+        ["sggmrss90_menu"] = "Sggmrss 90 Containertragwagen",
+		["sggmrss90_aae_name"] = "Sggmrs 90 AAE (2004)",
+		["sggmrss90_aae2_name"] = "Sggmrss 90 AAE/DB (2005)",
+		["sggmrss90_ambrogio_name"] = "Sggmrss 90 Ambrogio (2014)",
+		["sggmrss90_clip_name"] = "Sggmrss 90 CLIP (2019)",
+		["sggmrss90_ermewa_name"] = "Sggmrss 90 Ermewa (2013)",
+		["sggmrss90_ermewa2_name"] = "Sggmrss 90 Ermewa (2017)",
+		["sggmrss90_err_name"] = "Sggmrss 90 ERR (2015)",
+		["sggmrss90_eurowagon_name"] = "Sggmrss 90 Eurowagon (2018)",
+		["sggmrss90_gatx_name"] = "Sggmrss 90 GATX (2018)",
+		["sggmrss90_gts_name"] = "Sggmrss 90 GTS (2006)",
+		["sggmrss90_hupac_name"] = "Sggmrss 90 Hupac (2004)",
+		["sggmrss90_hupac2_name"] = "Sggmrss 90 Hupac (2023)",
+		["sggmrss90_mfd_name"] = "Sggmrss 90 MFD Rail (2020)",
+		["sggmrss90_vtg_name"] = "Sggmrss 90 VTG (2014)",
+		["sggmrss90_wascosa_name"] = "Sggmrss 90 Wascosa (2008)",
+        ["sggmrss90_desc"] = "Der Sggmrss 90 ist ein Containertragwagen mit einer Ladeläger von 2x 45ft. Die ersten wagen wurden 2004 gebaut und mehrmals weiter entwickelt. Die Wagen sind für eine Höchstgeschwindigkeit von 100 km/h oder 120 km/h zugelassen.",
+
+		--- Fake ---
+        ["sggmrss90_menu_fake"] = "Sggmrss 90 Containertragwagen Fake",
+		["sggmrss90_aae_name_fake"] = "Sggmrs 90 AAE (2004) Fake",
+		["sggmrss90_aae2_name_fake"] = "Sggmrss 90 AAE/DB (2005) Fake",
+		["sggmrss90_ambrogio_name_fake"] = "Sggmrss 90 Ambrogio (2014) Fake",
+		["sggmrss90_clip_name_fake"] = "Sggmrss 90 CLIP (2019) Fake",
+		["sggmrss90_ermewa_name_fake"] = "Sggmrss 90 Ermewa (2013) Fake",
+		["sggmrss90_ermewa2_name_fake"] = "Sggmrss 90 Ermewa (2017) Fake",
+		["sggmrss90_err_name_fake"] = "Sggmrss 90 ERR (2015) Fake",
+		["sggmrss90_eurowagon_name_fake"] = "Sggmrss 90 Eurowagon (2018) Fake",
+		["sggmrss90_gatx_name_fake"] = "Sggmrss 90 GATX (2018) Fake",
+		["sggmrss90_gts_name_fake"] = "Sggmrss 90 GTS (2006) Fake",
+		["sggmrss90_hupac_name_fake"] = "Sggmrss 90 Hupac (2004) Fake",
+		["sggmrss90_hupac2_name_fake"] = "Sggmrss 90 Hupac (2023) Fake",
+		["sggmrss90_mfd_name_fake"] = "Sggmrss 90 MFD Rail (2020) Fake",
+		["sggmrss90_vtg_name_fake"] = "Sggmrss 90 VTG (2014) Fake",
+		["sggmrss90_wascosa_name_fake"] = "Sggmrss 90 Wascosa (2008) Fake",
+
+		--- Ganzzug ---
+        ["containerwagen_ganzzug_menu"] = "Containertragwagen Ganzzüge",
+		["sggmrss90_ermewa2_name_ferrymasters"] = "Sggmrs 90 Ermewa Ferrymasters (2017)",
+		["sggmrss90_err_name_ferrymasters"] = "Sggmrs 90 ERR Ferrymasters (2015)",
+		["sggmrss90_eurowagon_name_ferrymasters"] = "Sggmrs 90 Eurowagon Ferrymasters (2018)",
+		["sggmrss90_hupac_name_ferrymasters"] = "Sggmrs 90 Hupac Ferrymasters (2004)",
+		["sggmrss90_hupac2_name_ferrymasters"] = "Sggmrs 90 Hupac Ferrymasters (2023)",
+		["sggmrss90_vtg_name_ferrymasters"] = "Sggmrs 90 VTG Ferrymasters (2014)",
+		["sggmrss90_gts_name_gts"] = "Sggmrss 90 GTS (2006)",
+		["sggmrss90_ambrogio_name_ambrogio"] = "Sggmrss 90 Ambrogio (2014)",
+
+		--- Ganzzug Fake ---
+        ["containerwagen_ganzzug_menu_fake"] = "Containertragwagen Ganzzüge Fake",
+		["sggmrss90_ermewa2_name_ferrymasters_fake"] = "Sggmrs 90 Ermewa Ferrymasters (2017) Fake",
+		["sggmrss90_err_name_ferrymasters_fake"] = "Sggmrs 90 ERR Ferrymasters (2015) Fake",
+		["sggmrss90_eurowagon_name_ferrymasters_fake"] = "Sggmrs 90 Eurowagon Ferrymasters (2018) Fake",
+		["sggmrss90_hupac_name_ferrymasters_fake"] = "Sggmrs 90 Hupac Ferrymasters (2004) Fake",
+		["sggmrss90_hupac2_name_ferrymasters_fake"] = "Sggmrs 90 Hupac Ferrymasters (2023) Fake",
+		["sggmrss90_vtg_name_ferrymasters_fake"] = "Sggmrs 90 VTG Ferrymasters (2014) Fake",
+		["sggmrss90_gts_name_gts_fake"] = "Sggmrss 90 GTS (2006) Fake",
+		["sggmrss90_ambrogio_name_ambrogio_fake"] = "Sggmrss 90 Ambrogio (2014) Fake",
+
+	},
+}
+end
