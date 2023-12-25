@@ -714,6 +714,40 @@ return {
 							type = "STEEL",
 						},
 					},
+					{
+						{
+							capacity = 60,
+							customCargoModels = {
+								configurations = {
+									{
+										slotLevels = {
+											{ 0 },
+											{ 1 },	
+											{ 1, 2 },								
+										},
+									},
+								},
+							},
+							type = "FUEL",
+						},
+					},
+					{
+						{
+							capacity = 60,
+							customCargoModels = {
+								configurations = {
+									{
+										slotLevels = {
+											{ 0 },
+											{ 1 },	
+											{ 1, 2 },								
+										},
+									},
+								},
+							},
+							type = "OIL",
+						},
+					},
 				},
 				-- compartment 2
 				{
@@ -851,6 +885,40 @@ return {
 								},
 							},
 							type = "STEEL",
+						},
+					},
+					{
+						{
+							capacity = 60,
+							customCargoModels = {
+								configurations = {
+									{
+										slotLevels = {
+											{ 3 },	
+											{ 4 },		
+											{ 4, 5 },										
+										},
+									},
+								},
+							},
+							type = "FUEL",
+						},
+					},
+					{
+						{
+							capacity = 60,
+							customCargoModels = {
+								configurations = {
+									{
+										slotLevels = {
+											{ 3 },	
+											{ 4 },		
+											{ 4, 5 },										
+										},
+									},
+								},
+							},
+							type = "OIL",
 						},
 					},
 				},

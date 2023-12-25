@@ -49,6 +49,14 @@ return {
 			["mfd_fake.mdl"] = true,
 			["vtg_fake.mdl"] = true,
 			["wascosa_fake.mdl"] = true,
+			["ambrogio_ambrogio_fake.mdl"] = true,
+			["ermewa2_ferrymasters_fake.mdl"] = true,
+			["err_ferrymasters_fake.mdl"] = true,
+			["eurowagon_ferrymasters_fake.mdl"] = true,
+			["gts_gts_fake.mdl"] = true,
+			["hupac_ferrymasters_fake.mdl"] = true,
+			["hupac2_ferrymasters_fake.mdl"] = true,
+			["vtg_ferrymasters_fake.mdl"] = true,
         }
 
 		local modelFilter = function(fileName, data)
