@@ -70,7 +70,7 @@ return {
 	de = {
 
 		["mod_name"] = "Sggmrss 90 Containerwagen",
-		["mod_desc"] = "Der Sggmrss 90 ist ein Containertragwagen mit einer Ladelänge von 2x 45 ft. Die ersten wagen wurden 2004 gebaut und mehrmals weiter entwickelt. Die Wagen sind für eine Höchstgeschwindigkeit von 100 km/h oder 120 km/h zugelassen.",
+		["mod_desc"] = "Der Sggmrss 90 ist ein Containertragwagen mit einer Ladelänge von 2x 45 ft. Die ersten Wagen wurden 2004 gebaut und mehrmals weiter entwickelt. Die Wagen sind für eine Höchstgeschwindigkeit von 100 km/h oder 120 km/h zugelassen.",
 
 		["option_fake_wagen_desc"] = "Sollen die Fake-Versionen des Sggmrss 90 verfügbar sein im Spiel?",
 		["Fake_sggmrss90_wagen"] = "Fake-Versionen aktivieren?",
@@ -91,7 +91,7 @@ return {
 		["sggmrss90_mfd_name"] = "Sggmrss 90 MFD Rail (2020)",
 		["sggmrss90_vtg_name"] = "Sggmrss 90 VTG (2014)",
 		["sggmrss90_wascosa_name"] = "Sggmrss 90 Wascosa (2008)",
-        ["sggmrss90_desc"] = "Der Sggmrss 90 ist ein Containertragwagen mit einer Ladelänge von 2x 45 ft. Die ersten wagen wurden 2004 gebaut und mehrmals weiter entwickelt. Die Wagen sind für eine Höchstgeschwindigkeit von 100 km/h oder 120 km/h zugelassen.",
+        ["sggmrss90_desc"] = "Der Sggmrss 90 ist ein Containertragwagen mit einer Ladelänge von 2x 45 ft. Die ersten Wagen wurden 2004 gebaut und mehrmals weiter entwickelt. Die Wagen sind für eine Höchstgeschwindigkeit von 100 km/h oder 120 km/h zugelassen.",
 
 		--- Fake ---
         ["sggmrss90_menu_fake"] = "Sggmrss 90 Containertragwagen Fake",
